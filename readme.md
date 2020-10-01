@@ -1,10 +1,5 @@
 OWASP Nettacker
-=========
-
-
-<img src="https://raw.githubusercontent.com/zdresearch/botcreatermode-Nettacker/master/web/static/img/botcreatermode-nettacker.png" width="200"><img src="https://raw.githubusercontent.com/zdresearch/OWASP-Nettacker/master/web/static/img/owasp.png" width="500">
-
-
+================
 **DISCLAIMER**
 
 * ***THIS SOFTWARE WAS CREATED FOR AUTOMATED PENETRATION TESTING AND INFORMATION GATHERING. CONTRIBUTORS WILL NOT BE RESPONSIBLE FOR ANY ILLEGAL USAGE.***
