@@ -1,18 +1,8 @@
 OWASP Nettacker
 =========
-[![Build Status Travic CI](https://travis-ci.org/zdresearch/OWASP-Nettacker.svg?branch=master)](https://travis-ci.org/zdresearch/OWASP-Nettacker)
-[![Donate US](https://img.shields.io/badge/Donate-OWASP-green.svg)](https://www.owasp.org/index.php/OWASP_Nettacker)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/04ca57d1b996435d8a42c767add84859)](https://www.codacy.com/app/zdresearch/OWASP-Nettacker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zdresearch/OWASP-Nettacker&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/04ca57d1b996435d8a42c767add84859)](https://www.codacy.com/app/zdresearch/OWASP-Nettacker?utm_source=github.com&utm_medium=referral&utm_content=zdresearch/OWASP-Nettacker&utm_campaign=Badge_Coverage)
-[![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)](https://travis-ci.org/zdresearch/OWASP-Nettacker)
-[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://travis-ci.org/zdresearch/OWASP-Nettacker)
-[![Apache License](https://img.shields.io/badge/License-Apache%20v2-green.svg)](https://github.com/zdresearch/OWASP-Nettacker/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/badge/Twitter-@iotscan-blue.svg)](https://twitter.com/iotscan)
-![GitHub contributors](https://img.shields.io/github/contributors/zdresearch/OWASP-Nettacker)
-[![repo size ](https://img.shields.io/github/repo-size/zdresearch/OWASP-Nettacker)](https://github.com/zdresearch/OWASP-Nettacker)
 
 
-<img src="https://raw.githubusercontent.com/zdresearch/OWASP-Nettacker/master/web/static/img/owasp-nettacker.png" width="200"><img src="https://raw.githubusercontent.com/zdresearch/OWASP-Nettacker/master/web/static/img/owasp.png" width="500">
+<img src="https://raw.githubusercontent.com/zdresearch/botcreatermode-Nettacker/master/web/static/img/botcreatermode-nettacker.png" width="200"><img src="https://raw.githubusercontent.com/zdresearch/OWASP-Nettacker/master/web/static/img/owasp.png" width="500">
 
 
 **DISCLAIMER**
@@ -21,7 +11,7 @@ OWASP Nettacker
 
 ![2018-01-19_0-45-07](https://user-images.githubusercontent.com/7676267/35123376-283d5a3e-fcb7-11e7-9b1c-92b78ed4fecc.gif)
 
-OWASP Nettacker project is created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software **will** utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. By leveraging a unique method in OWASP Nettacker for discovering protected services and devices such as SCADA. It would make a competitive edge compared to other scanner making it one of the bests.
+OWASP Nettacker project is created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software **will** utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. By leveraging a unique method in botcreatermode Nettacker for discovering protected services and devices such as SCADA. It would make a competitive edge compared to other scanner making it one of the bests.
 
 
 * OWASP Page: https://www.owasp.org/index.php/OWASP_Nettacker
